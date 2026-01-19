@@ -151,9 +151,7 @@ This repository represents the **vision and direction of Readle Press** as we bu
 
 ---
 
-## Contact
-
-📩 **hello@readlepress.com** *(coming soon)*  
+## Contact 
 👩‍💻 **Technical identity:** tech@readlepress.com  
 🌐 **Website:** Launching soon  
 
